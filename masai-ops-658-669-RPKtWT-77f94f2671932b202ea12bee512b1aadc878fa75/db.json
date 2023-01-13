@@ -92,6 +92,22 @@
         1,
         5
       ]
+    },
+   
+    {
+      "name": "Ashwini Bhoskar",
+      "location": "Delhi",
+      "interests": [
+        "1",
+        "2",
+        "3"
+      ],
+      "password": "1234",
+      "id": 7,
+      "subscribed": [
+        1,
+        5
+      ]
     }
   ],
   "meetups": [
